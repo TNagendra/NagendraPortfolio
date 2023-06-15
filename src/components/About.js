@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import profile from "../assests/yaswanth.png";
+import profile from "../assests/nagendra.png";
 
 const About = ({ setAboutOffset }) => {
   const aboutRef = useRef();
@@ -27,7 +27,7 @@ const About = ({ setAboutOffset }) => {
           className="order-0 order-lg-1 mb-3 col-12 col-md-6 text-center"
           data-aos="fade-down"
         >
-          <img src={profile} alt="Yaswanth Potti" className="About__image" />
+          <img src={profile} alt="Nagendra Tangeti" className="About__image" />
         </div>
         <div
           className="order-1 order-lg-0 col-12 col-md-6 "
@@ -40,7 +40,7 @@ const About = ({ setAboutOffset }) => {
             </div>
             <div className="coloured-text">
               <div className="mb-3">
-                I'm Yaswanth Potti, 23 years old and from Hyderabad.
+                I'm Nagendra Tangeti, 24 years old and from Chennai.
               </div>
               <div className="mb-3">
                 Digital design has been an interest of mine for many years, and

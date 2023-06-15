@@ -71,7 +71,7 @@ const Connect = ({ setConnectOffset }) => {
       <div className="mt-5 mb-5 coloured-text" data-aos="fade-right">
         <div className="mb-2  col-12 col-md-6 pe-3">
           Reach me out by filling the short form below or send an email to{" "}
-          <span className="pink-text ">yaswanth456p@gmail.com</span>
+          <span className="pink-text ">nagendratangeti434@gmail.com</span>
         </div>
       </div>
       <div className="col-12 col-md-6 col-lg-5 pe-3" data-aos="fade-down">
@@ -97,12 +97,12 @@ const Connect = ({ setConnectOffset }) => {
       </div>
       <div className="d-flex justify-content-center justify-content-md-start col-12 col-md-6 align-items-end mt-5">
         {/* Links */}
-        <a href="https://github.com/ypotti" target="_blank">
+        <a href="https://github.com/tnagendra" target="_blank">
           <div className="Connect__link">
             <SiGithub className="Connect__Link__Icon" />
           </div>
         </a>
-        <a href="https://www.linkedin.com/in/yaswanthpotti/" target="_blank">
+        <a href="https://www.linkedin.com/in/nagendra-tangeti/" target="_blank">
           <div className="Connect__link">
             <FaLinkedinIn className="Connect__Link__Icon" />
           </div>

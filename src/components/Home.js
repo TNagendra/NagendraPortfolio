@@ -35,7 +35,7 @@ const Home = ({ setHomeOffset }) => {
                 onInit={(typewriter) => {
                   typewriter
                     .pauseFor(1000)
-                    .typeString("Yaswanth Potti")
+                    .typeString("Nagendra Tangeti")
                     .pauseFor(2000)
                     .deleteAll()
                     .typeString("Web Developer")
@@ -57,7 +57,7 @@ const Home = ({ setHomeOffset }) => {
             </Link>
             <button className="butn-outline">
               <FiDownload className="me-2" />
-              <a className="a" href={resume} download="_Yaswanth_Potti_Resume">
+              <a className="a" href={resume} download="_Nagendra_Tangeti_Resume">
                 Resume
               </a>
             </button>
